@@ -176,7 +176,7 @@ I would like to thank Microverse for setting up this project for student
 
 ## 📝 License <a name="license"></a>
 
-The link is currently broken.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
