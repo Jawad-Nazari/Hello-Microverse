@@ -172,6 +172,13 @@ I would like to thank Microverse for setting up this project for student
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+
+- **[How is learning in Microverse program? ]**
+
+  - [I have to say , I really enjoy and get a lot of experience.]
+
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
